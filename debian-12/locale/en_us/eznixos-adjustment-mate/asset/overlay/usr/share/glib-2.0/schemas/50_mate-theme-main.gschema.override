@@ -1,12 +1,12 @@
 
 
 [org.mate.Marco.general]
-theme='vimix-ruby'
+theme='Vimix-Ruby-Dark'
 
 
 [org.mate.interface]
-gtk-theme='vimix-ruby'
-icon-theme='Vimix-Ruby'
+gtk-theme='Vimix-Ruby-Dark'
+icon-theme='Vimix-Ruby-Dark'
 
 
 [org.mate.peripherals-mouse]
